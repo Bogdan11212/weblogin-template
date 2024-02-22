@@ -1,4 +1,4 @@
-# weblogin-template V1
+# weblogin-template
 
 the site is still under construction 
 
